@@ -563,7 +563,7 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   // Uncomment to enable dark mode toggle
-  // createDarkModeToggle();
+  createDarkModeToggle();
 
   // Interactive event cards with 3D tilt effect
   const tiltCards = document.querySelectorAll(".event-card");
